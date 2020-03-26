@@ -1,4 +1,6 @@
-theme: jekyll-text-theme # Gem-based Jekyll Themes
+#theme: jekyll-text-theme # Gem-based Jekyll Themes
+remote-theme: jekyll-text-theme
+
 
 text_skin: ocean # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night-blue # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
@@ -208,4 +210,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-  
