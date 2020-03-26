@@ -1,0 +1,8 @@
+header:
+  - titles:
+      en:       about
+      ru:       о проекте
+    url:        /about.html
+  - title:      pub.dev
+    url:        https://pub.dev/publishers/dart.tools/packages
+    
